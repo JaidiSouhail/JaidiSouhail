@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-### 🤖 &nbsp;Machine Learning & Data Science
+### 🤖 &nbsp;Machine Learning 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
