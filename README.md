@@ -28,11 +28,6 @@
 <table>
 <tr><td>🎓</td><td><strong>4th Year Engineering Student</strong> at <strong>ESPRIT Engineering School</strong>, Tunis</td></tr>
 <tr><td>🎯</td><td>Specializing in <strong>Business Intelligence & Artificial Intelligence</strong></td></tr>
-<tr><td>📊</td><td>Currently building an ETL pipeline with <strong>Talend + SQL Server + Power BI</strong></td></tr>
-<tr><td>🤖</td><td>Exploring <strong>Machine Learning</strong> & predictive modeling with Python</td></tr>
-<tr><td>📌</td><td>Seeking a <strong>Summer Internship 2026</strong> in BI / Data / ML — Tunis, Tunisia</td></tr>
-<tr><td>💬</td><td>Ask me about <strong>BI, ETL, SQL, Python, Data Warehousing, Angular</strong></td></tr>
-<tr><td>🌍</td><td>Arabic (native) &nbsp;·&nbsp; French B2 &nbsp;·&nbsp; English B2</td></tr>
 </table>
 
 ---
