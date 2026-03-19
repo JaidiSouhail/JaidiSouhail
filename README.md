@@ -32,22 +32,6 @@
 
 ---
 
-## 🎓 &nbsp;Education
-
-<table>
-<tr>
-<td>🏫</td>
-<td><strong>ESPRIT — École Supérieure Privée d'Ingénierie et de Technologie</strong><br/>
-<sub>Tunis, Tunisia &nbsp;|&nbsp; Sept. 2022 — Present</sub></td>
-</tr>
-<tr>
-<td>🎯</td>
-<td>Engineering Cycle — Specialization: <strong>Business Intelligence & AI</strong></td>
-</tr>
-</table>
-
----
-
 ## 🛠️ &nbsp;My Skills
 
 ### 📊 &nbsp;Business Intelligence & Data
