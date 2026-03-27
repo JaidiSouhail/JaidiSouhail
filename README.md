@@ -66,13 +66,12 @@
   <img src="https://skillicons.dev/icons?i=angular,symfony,flutter,html,css&theme=dark" alt="Web"/>
 </p>
 
-### 🖥️ &nbsp;Desktop & Game Dev
+### 🖥️ &nbsp;Desktop 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=qt,java&theme=dark" alt="Desktop"/>
   &nbsp;
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
-  <img src="https://img.shields.io/badge/SDL2-1E88E5?style=for-the-badge&logo=c&logoColor=white" alt="SDL2"/>
 </p>
 
 ### ⚙️ &nbsp;Tools & IDEs
