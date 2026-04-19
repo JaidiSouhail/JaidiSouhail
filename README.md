@@ -11,11 +11,13 @@
 <div class="center">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Souhail%20Jaidi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Business%20Intelligence%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Engineering&descAlignY=60&descSize=17&descColor=90cdf4" alt="Header Souhail Jaidi"/>
         
- <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=2000&color=90CDF4&center=true&vCenter=true&width=600&height=55&lines=4th+Year+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93" alt="Typing SVG"/>
-        </a>
-        <br/>
-        <img src="https://img.shields.io/badge/Open%20to-Summer%20Internship%202026-2c5364?style=for-the-badge&logo=briefcase&logoColor=90cdf4" alt="Open to Internship"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=2000&color=90CDF4&center=true&vCenter=true&width=600&height=55&lines=4th+Year+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93" alt="Typing SVG"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Open%20to-Summer%20Internship%202026-2c5364?style=for-the-badge&logo=briefcase&logoColor=90cdf4" alt="Open to Internship"/>
+</p>
     </div>
 
 <hr/>
