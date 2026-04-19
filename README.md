@@ -4,61 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio - Souhail Jaidi</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-        h2 {
-            border-bottom: 2px solid #30363d;
-            padding-bottom: 10px;
-            color: #90cdf4;
-            display: flex;
-            align-items: center;
-        }
-        h3 {
-            color: #58a6ff;
-            margin-top: 25px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        td {
-            padding: 10px;
-            vertical-align: middle;
-        }
-        hr {
-            border: 0;
-            height: 1px;
-            background: #30363d;
-            margin: 40px 0;
-        }
-        .center {
-            text-align: center;
-        }
-        .flex-badges {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: flex-start;
-        }
-        img {
-            max-width: 100%;
-        }
-        a {
-            text-decoration: none;
-        }
-    </style>
 </head>
 <body>
 
