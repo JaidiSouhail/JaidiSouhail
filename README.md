@@ -16,7 +16,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=2000&color=90CDF4&center=true&vCenter=true&width=600&height=55&lines=4th+Year+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93" alt="Typing SVG"/>
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/Open%20to-Summer%20Internship%202026-2c5364?style=for-the-badge&logo=briefcase&logoColor=90cdf4" alt="Open to Internship"/>
 </p>
     </div>
 
