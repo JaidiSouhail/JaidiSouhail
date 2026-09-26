@@ -25,7 +25,7 @@
     <table>
         <tr>
             <td style="font-size: 24px; width: 40px;">🎓</td>
-            <td style="text-align: center;"><strong>4th Year Engineering Student</strong> at <strong>ESPRIT Engineering School</strong></td>
+            <td style="text-align: center;"><strong>5th Year Engineering Student</strong> at <strong>ESPRIT Engineering School</strong></td>
         </tr>
         <tr>
             <td style="font-size: 24px;">🎯</td>
